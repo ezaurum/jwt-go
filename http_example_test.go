@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dgrijalva/jwt-go/v4"
-	"github.com/dgrijalva/jwt-go/v4/request"
+	"github.com/ezaurum/jwt-go/v4"
+	"github.com/ezaurum/jwt-go/v4/request"
 )
 
 // location of the files used for signing and verification

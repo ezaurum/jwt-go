@@ -15,6 +15,6 @@ To simply display a token, use:
 
 ## Installation
 
-Simply: `go install github.com/dgrijalva/cmd/jwt`
+Simply: `go install github.com/ezaurum/cmd/jwt`
 
 Or you can download the code, compile it, and put the result wherever you like.

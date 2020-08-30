@@ -3,7 +3,7 @@ package request
 import (
 	"net/http"
 
-	"github.com/dgrijalva/jwt-go/v4"
+	"github.com/ezaurum/jwt-go/v4"
 )
 
 // Extract and parse a JWT token from an HTTP request.
